@@ -257,7 +257,7 @@ ul li a:hover {
 }
 
 .whoweare {
-  background-image: url(/imagens/bannerescuro.png);
+  background-image: url(imagens/bannerescuro.png);
   background-size: cover;
   background-position: center;
   height: fit-content;
@@ -280,7 +280,7 @@ ul li a:hover {
 .whoweare-photo {
   width: 50%;
   height: 300px;
-  background-image: url(/imagens/logobranca.png);
+  background-image: url(imagens/logobranca.png);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -371,7 +371,7 @@ transform: scale(110%);
 }
 
 .division {
-  background-image: url(/imagens/dividir.png);
+  background-image: url(imagens/dividir.png);
   background-position: center;
   background-size: cover;
   width: 15px;
@@ -383,7 +383,7 @@ transform: scale(110%);
 /*AREA NOSSA LIDERANÇA */
 
 .leadership {
-  background-image: url(/imagens/pastorbackground.png);
+  background-image: url(imagens/pastorbackground.png);
   background-position: center;
   background-size: cover;
   height: 550px;
@@ -509,7 +509,7 @@ INICIO DA AREA CONTATO*/
   align-items: center;
   text-align: center;
   flex-direction: column;
-  background-image: url(/imagens/montanha.jpg);
+  background-image: url(imagens/montanha.jpg);
   background-position: center;
   background-size: cover;
   color: white;
@@ -576,7 +576,7 @@ INICIO DA AREA ENDEREÇO */
   justify-content: center;
   padding: 20px;
   flex-direction: column;
-  background-image: url(/imagens/mapa.jpg);
+  background-image: url(imagens/mapa.jpg);
   background-position: center;
   background-size: cover;
   color: white;
